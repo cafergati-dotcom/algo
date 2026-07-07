@@ -18,7 +18,7 @@ flex-wrap: wrap;
 gap: 15px; 
 width: 100%;
 margin: 20px auto; 
-
+color: black !important;
 }
 .buttons button{
     background-color: rgb(240, 201, 208);
