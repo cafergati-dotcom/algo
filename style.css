@@ -20,11 +20,12 @@ width: 100%;
 margin: 20px auto; 
 color: black !important;
 }
-.buttons button{
+.buttons button, .buttons a{
     background-color: rgb(240, 201, 208);
     border-radius: 50px;
 font-size: 15px;
-
+color: black;
+text-decoration: none;
 cursor: pointer;
 box-shadow: 0 4px 10px black ;
 }
