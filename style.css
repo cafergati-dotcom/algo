@@ -60,6 +60,10 @@ width: 85%;
 max-width: 500px;
 text-align: center;
 margin: 20px auto !important; 
+box-shadow: 0 4px 10px black ;
+ animation-name:SlideUp;
+animation-duration: 1.9s;
+}
 }
 
 .skills {
@@ -126,7 +130,7 @@ z-index: 1000;
 .port {
     background-color: pink;
     animation-name:SlideUp;
-animation-duration: 3s;
+animation-duration: 1.9s;
 }
 html {
 scroll-behavior: smooth; 
