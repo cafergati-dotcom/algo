@@ -12,7 +12,7 @@ box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 text-align: center;
 animation-name:SlideUp;
 animation-duration: 3s;
-margin: 25px auto !important;
+margin: 25px auto;
 
 }
 .buttons {
