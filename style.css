@@ -1,5 +1,6 @@
-body{
-    font-family: "Arial",sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;800&dis^lay=swap');
+body {
+    font-family: 'Nunito', sans-serif;
 }
 .stats {
 background-color: pink;
